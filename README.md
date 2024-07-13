@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adeeb-Bin-Huda
-- 👀 I’m interested in CP,AI,Software Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in CP,AI,Software Development in JAVA
+- 🌱 I’m currently learning JAVA
+- 💞️ I’m looking to collaborate on JAVA
 - 📫 How to reach me adeeb.bin.huda.2020@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
